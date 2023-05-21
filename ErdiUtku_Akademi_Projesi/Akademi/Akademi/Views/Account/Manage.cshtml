@@ -1,0 +1,90 @@
+﻿@model UserManageViewModel
+
+<h1 class="display-6 mt-2">Profilim</h1>
+<hr />
+
+<form asp-area="" asp-controller="Account" asp-action="Manage" method="post" enctype="multipart/form-data">
+    <input type="hidden" name="Id" value="@Model.Id" />
+    <div class="row">
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <label asp-for="FirstName"></label>
+                <input class="form-control" asp-for="FirstName">
+                <span class="text-danger" asp-validation-for="FirstName"></span>
+            </div>
+        </div>
+
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <label asp-for="LastName"></label>
+                <input class="form-control" asp-for="LastName">
+                <span class="text-danger" asp-validation-for="LastName"></span>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <label asp-for="DateOfBirth"></label>
+                <input class="form-control" asp-for="DateOfBirth" type="">
+                <span class="text-danger" asp-validation-for="DateOfBirth"></span>
+            </div>
+        </div>
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <label asp-for="City"></label>
+                <input class="form-control" asp-for="City">
+                <span class="text-danger" asp-validation-for="City"></span>
+            </div>
+        </div>
+        
+    </div>
+
+    <div class="row">
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <label asp-for="UserName"></label>
+                <input class="form-control" asp-for="UserName">
+                <span class="text-danger" asp-validation-for="UserName"></span>
+            </div>
+        </div>
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <label asp-for="Email"></label>
+                <input class="form-control" asp-for="Email">
+                <span class="text-danger" asp-validation-for="Email"></span>
+            </div>
+        </div>
+        
+      
+        
+    </div>
+    
+    
+
+    <div class="row">
+       
+    
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <label class="form-label" asp-for="Gender"></label>
+                <select asp-for="Gender" asp-items="@Model.GenderSelectList" class="form-select">
+                </select>
+            </div>
+
+        </div>
+    </div>
+    
+    
+    <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
+        <button type="submit" class="btn btn-primary btn-lg">Değişiklikleri Kaydet</button>
+    </div>
+
+
+
+</form>
+
+@section Scripts{
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+}

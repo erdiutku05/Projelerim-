@@ -1,0 +1,78 @@
+﻿@using Akademi.Areas.Admin.Models.ViewModels.Accounts;
+@model BranchListViewModel
+@{
+    List<BranchViewModel> branches = Model.Branches;
+}
+<div class="container-fluid mt-3">
+    <div class="d-flex justify-content-between align-items-center">
+        <h1 class="display-6">Branş Listesi</h1>
+        <div class="d-flex flex-row align-items-end gap-5">
+            <div>
+                <form asp-area="Admin" asp-controller="Branches" asp-action="Index"
+                      class="mb-3 form-check" id="form-show-all">
+                    <div class="form-check form-switch">
+                        <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked" asp-for="ApprovedStatus" onchange="document.getElementById('form-show-all').submit();">
+                        <label class="form-check-label" for="flexSwitchCheckChecked">@(Model.ApprovedStatus ? "Pasifleri Göster" : "Aktifleri Göster")</label>
+                    </div>
+                </form>
+            </div>
+            <div>
+                <a class="btn btn-success"
+                   asp-area="Admin"
+                   asp-controller="Branches"
+                   asp-action="Create">Branş Ekle</a>
+            </div>
+        </div>
+    </div>
+    <hr />
+    <table id="myDataTable" class="table table-bordered">
+        <thead class="text-bg-success">
+            <tr>
+                <th width="80">Id</th>
+                <th>Branş Adı</th>
+                <th>Onaylı?</th>
+                <th width="240">İşlemler</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var branch in branches)
+            {
+                <tr>
+                    <td class="align-middle">@branch.Id</td>
+                    <td class="align-middle">@branch.BranchName</td>
+                    <td class="align-middle">
+                        <form 
+                            asp-area="Admin" 
+                            asp-controller="Branches"
+                          asp-action="UpdateIsApproved"
+                            asp-route-id=@branch.Id
+                          class="form-check" id="form-isapproved-@branch.Id">
+                            <div class="form-check form-switch">
+                                <input type="hidden" asp-for="ApprovedStatus" >
+                                <input class="form-check-input" type="checkbox" role="switch" id="flexSwitchCheckChecked" asp-for="@branch.IsApproved" onchange="document.getElementById('form-isapproved-@branch.Id').submit();">
+                            </div>
+                        </form>
+                    </td>
+                    <td class="align-middle">
+                        <a class="btn btn-warning btn-sm"
+                       asp-area="Admin"
+                       asp-controller="Branches"
+                       asp-action="Edit"
+                       asp-route-id=@branch.Id>Düzenle</a>
+                        <a class="btn btn-outline-danger btn-sm"
+                       asp-area="Admin"
+                       asp-controller="Branches"
+                       asp-action="Delete"
+                       asp-route-id=@branch.Id>Sil</a>
+                    </td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
+@section Styles{
+    @await Html.PartialAsync("_DataTablesStylesPartialView")
+}
+@section Scripts{
+    @await Html.PartialAsync("_DataTablesScriptsPartialView")
+}

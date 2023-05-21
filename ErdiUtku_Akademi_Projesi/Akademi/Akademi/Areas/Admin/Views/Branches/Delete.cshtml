@@ -1,0 +1,38 @@
+﻿@model BranchViewModel
+
+<h1 class="display-6 mt-2 text-danger">Branş Siliniyor!</h1>
+<hr />
+
+<form asp-area="Admin"
+      asp-controller="Branches"
+      asp-action="Delete"
+      method="post">
+    <div class="row">
+        <div class="col-9">
+            <div class="row">
+                <div class="col">
+                    <div class="mb-3">
+                        <label class="form-label text-danger fw-bold">Adı:</label>
+                        <label>@Model.BranchName</label>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label text-danger fw-bold">Soyadı</label>
+                        <label>@Model.Description</label>
+                    </div>
+                   
+           
+            
+            <button type="submit" class="btn btn-danger">Sil</button>
+
+        </div>
+    </div>
+
+</form>
+@section Scripts{
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+}
+
+
+
+
+

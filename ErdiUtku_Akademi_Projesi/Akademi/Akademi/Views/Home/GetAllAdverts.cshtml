@@ -1,0 +1,43 @@
+﻿@model AdvertListViewModel
+
+@{
+    List<AdvertViewModel> adverts = Model.Adverts;
+}
+
+<div class="row">
+    @foreach (var advert in adverts)
+    {
+        <div class="col-6">
+            <div class="card card-nav-tabs text-center">
+                <div class="card-header card-header-primary">
+                    @advert.FirstName @advert.LastName
+                </div>
+                <div class="card-body">
+                    <div class="row">
+                        <div class="col-4">
+                            <img src="~/images/@advert.Image.Url" class="img-fluid h-100 w-100" >
+                        </div>
+                        <div class="col-8">
+                            <h4 class="card-title"></h4>
+                            <p class="card-text">@advert.Description</p>
+                            <form >
+                                <a asp-area=""
+                                  asp-controller="Home"
+                                  asp-action="AdvertDetails"
+                                  asp-route-url="@advert.Url"
+                                   type="submit" class="btn btn-warning" data-bs-target="@Model">İncele</a>
+                            </form>
+                        </div>
+                    </div>
+                   
+                </div>
+                <div class="card-footer text-muted">
+                   İlan Oluşturma Tarihi: @advert.UpdatedDate
+                </div>
+            </div>
+
+        </div>
+    }
+
+
+</div>

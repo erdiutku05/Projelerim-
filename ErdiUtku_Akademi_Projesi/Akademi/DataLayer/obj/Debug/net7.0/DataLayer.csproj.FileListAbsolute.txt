@@ -1,0 +1,17 @@
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\bin\Debug\net7.0\DataLayer.deps.json
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\bin\Debug\net7.0\DataLayer.runtimeconfig.json
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\bin\Debug\net7.0\DataLayer.dll
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\bin\Debug\net7.0\DataLayer.pdb
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\bin\Debug\net7.0\EntityLayer.dll
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\bin\Debug\net7.0\EntityLayer.pdb
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\obj\Debug\net7.0\DataLayer.csproj.AssemblyReference.cache
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\obj\Debug\net7.0\DataLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfoInputs.cache
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\obj\Debug\net7.0\DataLayer.AssemblyInfo.cs
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CoreCompileInputs.cache
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\obj\Debug\net7.0\DataLayer.csproj.CopyComplete
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\obj\Debug\net7.0\DataLayer.dll
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\obj\Debug\net7.0\refint\DataLayer.dll
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\obj\Debug\net7.0\DataLayer.pdb
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\obj\Debug\net7.0\DataLayer.genruntimeconfig.cache
+C:\Users\erdiu\OneDrive\Masaüstü\Erdi_Proje\Akademi\DataLayer\obj\Debug\net7.0\ref\DataLayer.dll

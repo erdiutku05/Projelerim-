@@ -1,0 +1,42 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Akademi</title>
+   
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/css/steller.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/Akademi.styles.css" asp-append-version="true" />
+</head>
+<body data-spy="scroll" data-target=".navbar" data-offset="40" id="home">
+
+    @await Html.PartialAsync("_NavbarPartial");
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+    @await Html.PartialAsync("_FooterPartial");
+
+    <!-- End of page footer -->
+    <!-- core  -->
+    <script src="~/vendors/jquery/jquery-3.4.1.js"></script>
+    <script src="~/vendors/bootstrap/bootstrap.bundle.js"></script>
+    <!-- bootstrap 3 affix -->
+    <script src="~/vendors/bootstrap/bootstrap.affix.js"></script>
+
+    <!-- steller js -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css" integrity="sha512-iecdLmaskl7CVkqkXNQ/ZH/XLlvWZOJyj7Yy7tcenmpD1ypASozpmT/E0iPtmFIB46ZmdtAc9eNBvH0H/ZpiBw==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <script src="~/js/steller.js"></script>
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+    @await Component.InvokeAsync("Notyf")
+
+    @await RenderSectionAsync("Scripts", required: false)
+
+
+</body>
+</html>

@@ -1,0 +1,53 @@
+﻿@model StudentViewModel
+
+<h1 class="display-6 mt-2 text-danger">Öğrenci Siliniyor!</h1>
+<hr />
+
+<form asp-area="Admin"
+      asp-controller="Students"
+      asp-action="Delete"
+      method="post">
+    <input type="hidden" asp-for="User.Id" />
+    <div class="row">
+        <div class="col-9">
+            <div class="row">
+                <div class="col">
+                    <div class="mb-3">
+                        <label class="form-label text-danger fw-bold">Adı:</label>
+                        <label>@Model.FirstName</label>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label text-danger fw-bold">Soyadı</label>
+                        <label>@Model.LastName</label>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label text-danger fw-bold">Telefon Numarası:</label>
+                        <label>@Model.Phone</label>
+                    </div>
+                </div>
+                <div class="col">
+                    <div class="mb-3">
+                        <label class="form-label text-danger fw-bold">Doğum Tarihi:</label>
+                        <label>@Model.DateOfBirth</label>
+                    </div>
+                    <div class="mb-3">
+                        <label class="form-label text-danger fw-bold">Şehir:</label>
+                        <label>@Model.City</label>
+                    </div>
+                </div>
+            </div>
+            <div class="row mb-3">
+                <div class="col-2">
+                    <img src="~/images/@Model.Image.Url" class="img-thumbnail" width="100" alt="...">
+                </div>
+            </div>
+            <button type="submit" class="btn btn-danger">Sil</button>
+
+        </div>
+    </div>
+
+</form>
+@section Scripts{
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+}
+

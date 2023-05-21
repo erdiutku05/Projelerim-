@@ -1,0 +1,52 @@
+﻿@using Akademi.Areas.Admin.Models.ViewModels.Accounts;
+@model UserViewModel
+@{
+    UserViewModel user = Model;
+}
+<div class="container-fluid mt-3">
+    <div class="d-flex justify-content-between align-items-center">
+        <h1 class="display-6">Giriş Yapan Adminin Bilgileri</h1>
+        <div class="d-flex flex-row align-items-end gap-5">
+           
+        </div>
+    </div>
+    <hr />
+    <table id="myDataTable" class="table table-bordered table-sm">
+        <thead class="text-bg-success">
+            <tr>
+                <th>Ad</th>
+                <th>Soyad</th>
+                <th>Kullanıcı Adı</th>
+                <th>Email</th>
+             
+                
+            </tr>
+        </thead>
+        <tbody>
+            
+            
+                <tr>
+                    <td class="align-middle">@user.FirstName</td>
+                    <td class="align-middle">@user.LastName</td>
+                    <td class="align-middle">@user.UserName</td>
+                    <td class="align-middle">@user.Email</td>
+                   
+                    
+                    
+                            
+                        
+                   
+
+                    
+                </tr>
+            
+        </tbody>
+    </table>
+</div>
+
+@section Styles{
+    @await Html.PartialAsync("_DataTablesStylesPartialView")
+}
+@*@section Scripts{
+    @await Html.PartialAsync("_DataTablesScriptsPartialView")
+}*@

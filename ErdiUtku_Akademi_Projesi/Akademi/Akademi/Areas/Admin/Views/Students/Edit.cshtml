@@ -1,0 +1,105 @@
+﻿@model StudentUpdateViewModel
+
+<h1 class="display-6 mt-2">Öğrenci Güncelleme</h1>
+<hr />
+
+<form asp-area="Admin"
+      asp-controller="Students"
+      asp-action="Edit"
+      method="post"
+      enctype="multipart/form-data">
+    <div class="row">
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <input class="form-control" asp-for="FirstName">
+                <label class="form-label" asp-for="FirstName"></label>
+                <span class="text-danger" asp-validation-for="FirstName"></span>
+            </div>
+        </div>
+
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <input class="form-control" asp-for="LastName">
+                <label class="form-label" asp-for="LastName"></label>
+                <span class="text-danger" asp-validation-for="LastName"></span>
+            </div>
+        </div>
+
+    </div>
+    <div class="row">
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <input class="form-control" asp-for="Gender">
+                <label class="form-label" asp-for="Gender"></label>
+                <span class="text-danger" asp-validation-for="Gender"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <input class="form-control" asp-for="DateOfBirth">
+                <label class="form-label" asp-for="DateOfBirth"></label>
+                <span class="text-danger" asp-validation-for="DateOfBirth"></span>
+            </div>
+        </div>
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <input type="checkbox" class="form-check-input" asp-for="IsApproved">
+                <label class="form-check-label" asp-for="IsApproved"></label>
+            </div>
+        </div>
+    </div>
+
+    <div class="row">
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <input class="form-control" asp-for="City">
+                <label class="form-label" asp-for="City"></label>
+                <span class="text-danger" asp-validation-for="City"></span>
+            </div>
+        </div>
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <input class="form-control" asp-for="Phone">
+                <label class="form-label" asp-for="Phone"></label>
+                <span class="text-danger" asp-validation-for="Phone"></span>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <input class="form-control" asp-for="UserName">
+                <label class="form-label" asp-for="UserName"></label>
+                <span class="text-danger" asp-validation-for="UserName"></span>
+            </div>
+        </div>
+        <div class="col-6 d-flex  align-items-center mb-4">
+            <div class="form-outline flex-fill mb-0">
+                <input class="form-control" asp-for="Email">
+                <label class="form-label" asp-for="Email"></label>
+                <span class="text-danger" asp-validation-for="Email"></span>
+            </div>
+        </div>
+    </div>
+
+    <div class="d-flex  align-items-center mb-4">
+        <div class="form-outline flex-fill mb-0">
+            <input type="file" asp-for="ImageFile" class="form-control" accept="images/" multiple />
+            @*<span class="text-danger" asp-validation-for="Image"></span>*@
+        </div>
+    </div>
+    <div class="d-flex justify-content-center mx-4 mb-3 mb-lg-4">
+        <button type="submit" class="btn btn-primary btn-lg">Kaydet</button>
+    </div>
+
+</form>
+<div class="mb-3">
+    <img src="~/images/@Model.Image.Url" class="img-thumbnail" alt="...">
+</div>
+@section Scripts{
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+}
+

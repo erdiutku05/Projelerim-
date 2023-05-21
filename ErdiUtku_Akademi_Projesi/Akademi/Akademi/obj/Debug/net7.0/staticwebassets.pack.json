@@ -1,0 +1,1849 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\Akademi.bundle.scp.css",
+      "PackagePath": "staticwebassets\\Akademi.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\css\\steller.css",
+      "PackagePath": "staticwebassets\\css\\steller.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\.DS_Store",
+      "PackagePath": "staticwebassets\\ilananla\\css\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\aos.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\aos.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\ilananla\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\bootstrap\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\bootstrap\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\bootstrap\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\bootstrap\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\jquery-ui.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\jquery-ui.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\jquery.fancybox.min.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\jquery.fancybox.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\jquery.mb.YTPlayer.min.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\jquery.mb.YTPlayer.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\magnific-popup.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\magnific-popup.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\mediaelementplayer.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\mediaelementplayer.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\owl.carousel.min.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\owl.carousel.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\owl.theme.default.min.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\owl.theme.default.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\css\\style.css",
+      "PackagePath": "staticwebassets\\ilananla\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\.DS_Store",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\flaticon\\backup.txt",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\flaticon\\backup.txt"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\flaticon\\font\\Flaticon.eot",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\flaticon\\font\\Flaticon.eot"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\flaticon\\font\\Flaticon.svg",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\flaticon\\font\\Flaticon.svg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\flaticon\\font\\Flaticon.ttf",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\flaticon\\font\\Flaticon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\flaticon\\font\\Flaticon.woff",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\flaticon\\font\\Flaticon.woff"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\flaticon\\font\\Flaticon.woff2",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\flaticon\\font\\Flaticon.woff2"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\flaticon\\font\\_flaticon.css",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\flaticon\\font\\_flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\flaticon\\font\\_flaticon.scss",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\flaticon\\font\\_flaticon.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\flaticon\\font\\flaticon.css",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\flaticon\\font\\flaticon.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\flaticon\\font\\flaticon.html",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\flaticon\\font\\flaticon.html"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\flaticon\\license\\license.pdf",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\flaticon\\license\\license.pdf"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\icomoon\\Read Me.txt",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\icomoon\\Read Me.txt"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\icomoon\\demo-files\\demo.css",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\icomoon\\demo-files\\demo.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\icomoon\\demo-files\\demo.js",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\icomoon\\demo-files\\demo.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\icomoon\\demo.html",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\icomoon\\demo.html"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\icomoon\\fonts\\icomoon.eot",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\icomoon\\fonts\\icomoon.eot"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\icomoon\\fonts\\icomoon.svg",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\icomoon\\fonts\\icomoon.svg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\icomoon\\fonts\\icomoon.ttf",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\icomoon\\fonts\\icomoon.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\icomoon\\fonts\\icomoon.woff",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\icomoon\\fonts\\icomoon.woff"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\icomoon\\selection.json",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\icomoon\\selection.json"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\fonts\\icomoon\\style.css",
+      "PackagePath": "staticwebassets\\ilananla\\fonts\\icomoon\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\.DS_Store",
+      "PackagePath": "staticwebassets\\ilananla\\images\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\bg_1.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\bg_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\blog_1.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\blog_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\blog_2.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\blog_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\blog_large_1.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\blog_large_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\course_1.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\course_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\course_2.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\course_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\course_3.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\course_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\course_4.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\course_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\course_5.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\course_5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\course_6.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\course_6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\hero_1.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\hero_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\logo.png",
+      "PackagePath": "staticwebassets\\ilananla\\images\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\person_1.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\person_1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\person_2.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\person_2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\person_3.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\person_3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\images\\person_4.jpg",
+      "PackagePath": "staticwebassets\\ilananla\\images\\person_4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\aos.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\aos.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\bootstrap-datepicker.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\bootstrap-datepicker.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\jquery-3.3.1.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\jquery-3.3.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\jquery-migrate-3.0.1.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\jquery-migrate-3.0.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\jquery-ui.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\jquery-ui.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\jquery.countdown.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\jquery.countdown.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\jquery.easing.1.3.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\jquery.easing.1.3.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\jquery.fancybox.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\jquery.fancybox.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\jquery.magnific-popup.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\jquery.magnific-popup.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\jquery.mb.YTPlayer.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\jquery.mb.YTPlayer.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\jquery.stellar.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\jquery.stellar.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\jquery.sticky.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\jquery.sticky.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\main.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\main.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\mediaelement-and-player.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\mediaelement-and-player.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\owl.carousel.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\owl.carousel.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\popper.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\popper.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\slick.min.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\slick.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\js\\typed.js",
+      "PackagePath": "staticwebassets\\ilananla\\js\\typed.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\.DS_Store",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\_site-base.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\_site-base.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\_site-blocks.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\_site-blocks.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\_site-navbar.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\_site-navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\.DS_Store",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\.DS_Store"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_alert.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_badge.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_button-group.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_buttons.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_card.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_carousel.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_close.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_code.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_forms.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_functions.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_grid.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_images.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_input-group.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_list-group.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_media.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_mixins.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_modal.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_nav.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_navbar.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_pagination.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_popover.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_print.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_progress.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_reboot.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_root.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_tables.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_transitions.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_type.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_utilities.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\_variables.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\bootstrap-grid.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\bootstrap-grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\bootstrap-reboot.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\bootstrap-reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\bootstrap.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\bootstrap.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\bootstrap\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\bootstrap\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\ilananla\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\ilananla\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\00e0acd0-4c08-4be6-90a9-ac5c16f3119e.jpeg",
+      "PackagePath": "staticwebassets\\images\\00e0acd0-4c08-4be6-90a9-ac5c16f3119e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\02a0dba6-7bc5-48cb-83a7-934b19d506bf.jpeg",
+      "PackagePath": "staticwebassets\\images\\02a0dba6-7bc5-48cb-83a7-934b19d506bf.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\0922a682-d57f-46a7-9c0a-5b0183fb61a8.jpeg",
+      "PackagePath": "staticwebassets\\images\\0922a682-d57f-46a7-9c0a-5b0183fb61a8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\0c50ab00-b1c4-4f50-98f4-5aeb9d9d7949.jpeg",
+      "PackagePath": "staticwebassets\\images\\0c50ab00-b1c4-4f50-98f4-5aeb9d9d7949.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\1e09262f-b297-4f68-a126-be096b68327d.jpeg",
+      "PackagePath": "staticwebassets\\images\\1e09262f-b297-4f68-a126-be096b68327d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\22411fea-f079-4ea9-8b64-388f440a8f85.jpeg",
+      "PackagePath": "staticwebassets\\images\\22411fea-f079-4ea9-8b64-388f440a8f85.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\22adbc1a-07c9-4ac3-9847-e8d4c4ef0d12.jpeg",
+      "PackagePath": "staticwebassets\\images\\22adbc1a-07c9-4ac3-9847-e8d4c4ef0d12.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\22f99bab-c6c8-43af-9180-41d0c17aa1dd.jpeg",
+      "PackagePath": "staticwebassets\\images\\22f99bab-c6c8-43af-9180-41d0c17aa1dd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\24e10d38-321d-4d22-875f-8623c0c6f412.jpeg",
+      "PackagePath": "staticwebassets\\images\\24e10d38-321d-4d22-875f-8623c0c6f412.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\25fbcd26-7618-435d-9a01-d9219e5289ce.webp",
+      "PackagePath": "staticwebassets\\images\\25fbcd26-7618-435d-9a01-d9219e5289ce.webp"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\2d6795de-8e6c-4982-8f3e-4927d81d4ed8.jpeg",
+      "PackagePath": "staticwebassets\\images\\2d6795de-8e6c-4982-8f3e-4927d81d4ed8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\2f17f0e0-2c25-47a6-860d-2f2cf3ae0227.jpeg",
+      "PackagePath": "staticwebassets\\images\\2f17f0e0-2c25-47a6-860d-2f2cf3ae0227.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\312665aa-6147-4522-8032-62e82c7da1c9.jpg",
+      "PackagePath": "staticwebassets\\images\\312665aa-6147-4522-8032-62e82c7da1c9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\32d98121-941f-4509-a73b-afefc8b9c639.jpeg",
+      "PackagePath": "staticwebassets\\images\\32d98121-941f-4509-a73b-afefc8b9c639.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\3423cda8-82e0-42dd-ac2a-8c0abd30873b.jpeg",
+      "PackagePath": "staticwebassets\\images\\3423cda8-82e0-42dd-ac2a-8c0abd30873b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\371008bf-e209-41ae-8b7a-5f93ec5be92a.jpeg",
+      "PackagePath": "staticwebassets\\images\\371008bf-e209-41ae-8b7a-5f93ec5be92a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\3ad4a108-6426-4996-a36d-f15317e370ae.jpeg",
+      "PackagePath": "staticwebassets\\images\\3ad4a108-6426-4996-a36d-f15317e370ae.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\3bc930a6-b300-426d-a02b-6d0f100e82d8.webp",
+      "PackagePath": "staticwebassets\\images\\3bc930a6-b300-426d-a02b-6d0f100e82d8.webp"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\3d7e678c-7144-4f58-80e0-753430d2cf81.jpeg",
+      "PackagePath": "staticwebassets\\images\\3d7e678c-7144-4f58-80e0-753430d2cf81.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\3e9ce53e-d571-42c2-afee-e29307544942.jpeg",
+      "PackagePath": "staticwebassets\\images\\3e9ce53e-d571-42c2-afee-e29307544942.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\3f262a50-b627-40ca-baa6-ca279e08e42f.jpeg",
+      "PackagePath": "staticwebassets\\images\\3f262a50-b627-40ca-baa6-ca279e08e42f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\3fc6cc0e-03ab-4519-b1b2-611373428d3c.jpg",
+      "PackagePath": "staticwebassets\\images\\3fc6cc0e-03ab-4519-b1b2-611373428d3c.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\419c5528-161c-4ff3-ae6c-7a12bc7ee569.jpeg",
+      "PackagePath": "staticwebassets\\images\\419c5528-161c-4ff3-ae6c-7a12bc7ee569.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\41bc0d5d-32bc-4efb-b831-b2893a74d436.jpeg",
+      "PackagePath": "staticwebassets\\images\\41bc0d5d-32bc-4efb-b831-b2893a74d436.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\4bda5a00-0f52-45d0-b7c7-3d6f148cae87.jpeg",
+      "PackagePath": "staticwebassets\\images\\4bda5a00-0f52-45d0-b7c7-3d6f148cae87.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\4e998867-a2ab-4af4-baae-ca39664e55ce.jpeg",
+      "PackagePath": "staticwebassets\\images\\4e998867-a2ab-4af4-baae-ca39664e55ce.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\4f796e76-15c7-457f-85ec-9c754a0a109b.jpg",
+      "PackagePath": "staticwebassets\\images\\4f796e76-15c7-457f-85ec-9c754a0a109b.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\52b15795-3300-4f44-a712-94be3b602437.jpeg",
+      "PackagePath": "staticwebassets\\images\\52b15795-3300-4f44-a712-94be3b602437.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\52b3ca41-b076-4b76-9975-0a0a5a361b30.jpg",
+      "PackagePath": "staticwebassets\\images\\52b3ca41-b076-4b76-9975-0a0a5a361b30.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\53829106-7ca3-476a-a6a8-973f61cb700d.webp",
+      "PackagePath": "staticwebassets\\images\\53829106-7ca3-476a-a6a8-973f61cb700d.webp"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\53c15939-d9c0-4b8e-bd4f-724e23d5258c.webp",
+      "PackagePath": "staticwebassets\\images\\53c15939-d9c0-4b8e-bd4f-724e23d5258c.webp"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\5b237344-e90c-40d8-a46b-649c1fa3d3dd.jpeg",
+      "PackagePath": "staticwebassets\\images\\5b237344-e90c-40d8-a46b-649c1fa3d3dd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\5cdcc867-72cc-43d0-9d2e-fd1802674438.jpg",
+      "PackagePath": "staticwebassets\\images\\5cdcc867-72cc-43d0-9d2e-fd1802674438.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\5e0383fd-fbb4-4bf3-932c-feb79d4c74c0.jpeg",
+      "PackagePath": "staticwebassets\\images\\5e0383fd-fbb4-4bf3-932c-feb79d4c74c0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\61076bda-3b10-4429-9181-bcfbe1e1d044.jpeg",
+      "PackagePath": "staticwebassets\\images\\61076bda-3b10-4429-9181-bcfbe1e1d044.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\6298da95-6192-4fb0-b6e0-ef43ae81447b.jpeg",
+      "PackagePath": "staticwebassets\\images\\6298da95-6192-4fb0-b6e0-ef43ae81447b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\635830be-b5b6-4cc8-b428-5c02256f09ba.jpg",
+      "PackagePath": "staticwebassets\\images\\635830be-b5b6-4cc8-b428-5c02256f09ba.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\67c295db-f3dc-4dd3-af74-02dc1ad89b3b.jpeg",
+      "PackagePath": "staticwebassets\\images\\67c295db-f3dc-4dd3-af74-02dc1ad89b3b.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\73362855-6a57-49b9-b6ea-99118b2fc86c.jpeg",
+      "PackagePath": "staticwebassets\\images\\73362855-6a57-49b9-b6ea-99118b2fc86c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\77549aa1-d69a-4fcb-bf8b-c5817cf4f9cf.jpeg",
+      "PackagePath": "staticwebassets\\images\\77549aa1-d69a-4fcb-bf8b-c5817cf4f9cf.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\778eca34-73fd-4cf2-9b41-e3ca0780b72e.jpeg",
+      "PackagePath": "staticwebassets\\images\\778eca34-73fd-4cf2-9b41-e3ca0780b72e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\77b8c8c0-404d-454f-89b4-45de4c2a4971.jpeg",
+      "PackagePath": "staticwebassets\\images\\77b8c8c0-404d-454f-89b4-45de4c2a4971.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\79922278-8d6d-44e6-87eb-4d42863f1ed8.jpeg",
+      "PackagePath": "staticwebassets\\images\\79922278-8d6d-44e6-87eb-4d42863f1ed8.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\82041dda-a17d-4b36-a2e4-b1c683fd942d.jpeg",
+      "PackagePath": "staticwebassets\\images\\82041dda-a17d-4b36-a2e4-b1c683fd942d.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\82e973a5-6bc1-423c-9d2b-4ae8717386d3.jpg",
+      "PackagePath": "staticwebassets\\images\\82e973a5-6bc1-423c-9d2b-4ae8717386d3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\8c647b4a-7451-46f9-b173-d539b42ed25e.jpeg",
+      "PackagePath": "staticwebassets\\images\\8c647b4a-7451-46f9-b173-d539b42ed25e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\8d30802b-fb67-47ad-ac96-ce16161af17d.webp",
+      "PackagePath": "staticwebassets\\images\\8d30802b-fb67-47ad-ac96-ce16161af17d.webp"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\8ef57db0-8cf3-4f74-b1e0-171a1118d7aa.jpeg",
+      "PackagePath": "staticwebassets\\images\\8ef57db0-8cf3-4f74-b1e0-171a1118d7aa.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\91afd481-e97e-4c89-a032-e52635c2347d.jpg",
+      "PackagePath": "staticwebassets\\images\\91afd481-e97e-4c89-a032-e52635c2347d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\9746ee7c-fdf9-4dea-9664-d2e05e4be79a.webp",
+      "PackagePath": "staticwebassets\\images\\9746ee7c-fdf9-4dea-9664-d2e05e4be79a.webp"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\99ec9b17-bba3-4cd0-b830-bf84f181e07e.webp",
+      "PackagePath": "staticwebassets\\images\\99ec9b17-bba3-4cd0-b830-bf84f181e07e.webp"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\9ac290f7-e684-4ab4-a37b-884b92176973.jpg",
+      "PackagePath": "staticwebassets\\images\\9ac290f7-e684-4ab4-a37b-884b92176973.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\9c902ecb-0179-4dd1-9529-c12878814555.jpeg",
+      "PackagePath": "staticwebassets\\images\\9c902ecb-0179-4dd1-9529-c12878814555.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\9d836f68-c897-4538-a0d6-36f9c25a0c5e.jpeg",
+      "PackagePath": "staticwebassets\\images\\9d836f68-c897-4538-a0d6-36f9c25a0c5e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\9df398be-a961-4d8f-a08a-5189729598ba.jpeg",
+      "PackagePath": "staticwebassets\\images\\9df398be-a961-4d8f-a08a-5189729598ba.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\9e04b230-cc3c-4e1e-aae7-2df03ab3b2d1.jpg",
+      "PackagePath": "staticwebassets\\images\\9e04b230-cc3c-4e1e-aae7-2df03ab3b2d1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\9ecfdd74-bdd7-4ef7-a820-f6e5d4f1b285.jpeg",
+      "PackagePath": "staticwebassets\\images\\9ecfdd74-bdd7-4ef7-a820-f6e5d4f1b285.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\9f385b0e-05c7-41f5-a25d-e96ff095503a.jpeg",
+      "PackagePath": "staticwebassets\\images\\9f385b0e-05c7-41f5-a25d-e96ff095503a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\a2b22d75-e8ff-477f-a65e-ce9c58c0f4c9.jpg",
+      "PackagePath": "staticwebassets\\images\\a2b22d75-e8ff-477f-a65e-ce9c58c0f4c9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\a45642e0-bf78-4f4b-8d1c-409ad242642f.jpeg",
+      "PackagePath": "staticwebassets\\images\\a45642e0-bf78-4f4b-8d1c-409ad242642f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\a9ac24c1-7f4e-40fe-8c77-cd4d6af4452e.jpeg",
+      "PackagePath": "staticwebassets\\images\\a9ac24c1-7f4e-40fe-8c77-cd4d6af4452e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\atam.jpg",
+      "PackagePath": "staticwebassets\\images\\atam.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\avatar-1.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\avatar-2.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\avatar-3.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\avatar.jpg",
+      "PackagePath": "staticwebassets\\images\\avatar.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\b086d4c8-eda7-4187-8a54-c09d1059ba77.webp",
+      "PackagePath": "staticwebassets\\images\\b086d4c8-eda7-4187-8a54-c09d1059ba77.webp"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\bdb342f5-3db9-4255-a140-ecb0d2a6f10d.jpg",
+      "PackagePath": "staticwebassets\\images\\bdb342f5-3db9-4255-a140-ecb0d2a6f10d.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\bdce871f-6f95-44a0-a2b0-50ba169ed4f3.jpg",
+      "PackagePath": "staticwebassets\\images\\bdce871f-6f95-44a0-a2b0-50ba169ed4f3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\bdef6d88-4372-4c25-a776-e979644d362a.jpeg",
+      "PackagePath": "staticwebassets\\images\\bdef6d88-4372-4c25-a776-e979644d362a.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\bf099b5c-6602-43b1-82c8-4c6f79c97b61.jpeg",
+      "PackagePath": "staticwebassets\\images\\bf099b5c-6602-43b1-82c8-4c6f79c97b61.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\blog-1.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\blog-2.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\blog-3.jpg",
+      "PackagePath": "staticwebassets\\images\\blog-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\c0d11b22-399d-4dee-bde3-edca3e2a59e1.jpg",
+      "PackagePath": "staticwebassets\\images\\c0d11b22-399d-4dee-bde3-edca3e2a59e1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\c3c8c37a-d512-45bd-bbc9-08e936ff3ece.jpeg",
+      "PackagePath": "staticwebassets\\images\\c3c8c37a-d512-45bd-bbc9-08e936ff3ece.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\c6ea3260-a0f1-4144-a27c-7130f00dabf9.jpeg",
+      "PackagePath": "staticwebassets\\images\\c6ea3260-a0f1-4144-a27c-7130f00dabf9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\c9d7a479-89e8-48c5-b246-3afe9f400042.jpg",
+      "PackagePath": "staticwebassets\\images\\c9d7a479-89e8-48c5-b246-3afe9f400042.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\cdeb2e7f-33d2-4f70-8c1a-b7cd14f96c2c.jpeg",
+      "PackagePath": "staticwebassets\\images\\cdeb2e7f-33d2-4f70-8c1a-b7cd14f96c2c.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\cf311eea-891a-4ba4-8952-d9e02c5ca48f.jpeg",
+      "PackagePath": "staticwebassets\\images\\cf311eea-891a-4ba4-8952-d9e02c5ca48f.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\cfaa5a11-08a7-42fa-b027-3a8a3d8d12c3.jpeg",
+      "PackagePath": "staticwebassets\\images\\cfaa5a11-08a7-42fa-b027-3a8a3d8d12c3.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\d1dd430b-069c-431e-a696-659ed65229f9.jpeg",
+      "PackagePath": "staticwebassets\\images\\d1dd430b-069c-431e-a696-659ed65229f9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\d36ed1a5-ce98-4e1c-80f0-bf8a6c483cff.jpg",
+      "PackagePath": "staticwebassets\\images\\d36ed1a5-ce98-4e1c-80f0-bf8a6c483cff.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\d4cffdde-a294-4ce7-8829-b1ea10e1940e.jpeg",
+      "PackagePath": "staticwebassets\\images\\d4cffdde-a294-4ce7-8829-b1ea10e1940e.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\d59c9e91-cc3c-4545-a9cd-8e0e9c5bc178.jpeg",
+      "PackagePath": "staticwebassets\\images\\d59c9e91-cc3c-4545-a9cd-8e0e9c5bc178.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\d88cc6b8-c7ce-483b-9cba-fd580f1ac8d9.jpeg",
+      "PackagePath": "staticwebassets\\images\\d88cc6b8-c7ce-483b-9cba-fd580f1ac8d9.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\daa17255-77bb-4f2b-a014-241114ac5bbb.jpeg",
+      "PackagePath": "staticwebassets\\images\\daa17255-77bb-4f2b-a014-241114ac5bbb.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\e7ac7eee-3eba-417f-ad85-21eba6afc0e0.jpeg",
+      "PackagePath": "staticwebassets\\images\\e7ac7eee-3eba-417f-ad85-21eba6afc0e0.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\e8595220-20d8-4d7a-8ec6-022580125bdd.jpeg",
+      "PackagePath": "staticwebassets\\images\\e8595220-20d8-4d7a-8ec6-022580125bdd.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\ed374cf2-969e-47a8-a26b-d8c0ec6e83a7.jpeg",
+      "PackagePath": "staticwebassets\\images\\ed374cf2-969e-47a8-a26b-d8c0ec6e83a7.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\eu.jpeg",
+      "PackagePath": "staticwebassets\\images\\eu.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\eub.jpg",
+      "PackagePath": "staticwebassets\\images\\eub.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\eutku.jpg",
+      "PackagePath": "staticwebassets\\images\\eutku.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\f0e9f510-4f24-4770-8782-7a2a79377be2.webp",
+      "PackagePath": "staticwebassets\\images\\f0e9f510-4f24-4770-8782-7a2a79377be2.webp"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\f35ec9af-0d50-4734-a8e0-84bc08250f24.jpeg",
+      "PackagePath": "staticwebassets\\images\\f35ec9af-0d50-4734-a8e0-84bc08250f24.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\fe0a0bf6-7c5e-4afc-8cce-a2f793117b85.jpeg",
+      "PackagePath": "staticwebassets\\images\\fe0a0bf6-7c5e-4afc-8cce-a2f793117b85.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\folio-1.jpg",
+      "PackagePath": "staticwebassets\\images\\folio-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\folio-2.jpg",
+      "PackagePath": "staticwebassets\\images\\folio-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\folio-3.jpg",
+      "PackagePath": "staticwebassets\\images\\folio-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\folio-4.jpg",
+      "PackagePath": "staticwebassets\\images\\folio-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\folio-5.jpg",
+      "PackagePath": "staticwebassets\\images\\folio-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\folio-6.jpg",
+      "PackagePath": "staticwebassets\\images\\folio-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\logo.jpg",
+      "PackagePath": "staticwebassets\\images\\logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\man.svg",
+      "PackagePath": "staticwebassets\\images\\man.svg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\resimyok.jpg",
+      "PackagePath": "staticwebassets\\images\\resimyok.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\teacher-1.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\teacher-2.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\teacher-3.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\images\\teacher-4.jpg",
+      "PackagePath": "staticwebassets\\images\\teacher-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\js\\steller.js",
+      "PackagePath": "staticwebassets\\js\\steller.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\abstracts\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\abstracts\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\abstracts\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\abstracts\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\base\\_typography.scss",
+      "PackagePath": "staticwebassets\\scss\\base\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\components\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\components\\_googlemap.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_googlemap.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\components\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\components\\_progressbar.scss",
+      "PackagePath": "staticwebassets\\scss\\components\\_progressbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\layout\\_footer.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\layout\\_header.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_header.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\layout\\_section.scss",
+      "PackagePath": "staticwebassets\\scss\\layout\\_section.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\steller.scss",
+      "PackagePath": "staticwebassets\\scss\\steller.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_breadcrumb.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_button-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_card.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_card.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_carousel.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_close.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_close.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_code.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_code.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_custom-forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_images.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_images.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_input-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_jumbotron.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_media.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_media.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_mixins.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_modal.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_nav.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_popover.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_print.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_print.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_reboot.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_root.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_root.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_spinners.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_toasts.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_tooltip.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_transitions.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_type.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_type.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_alert.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_background-variant.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_badge.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_border-radius.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_box-shadow.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_breakpoints.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_caret.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_deprecate.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_gradients.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid-framework.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_grid.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_hover.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_image.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_list-group.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_nav-divider.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_pagination.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_reset-text.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_resize.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_screen-reader.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_size.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_table-row.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-emphasis.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-hide.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_text-truncate.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_transition.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\mixins\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_align.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_borders.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_clearfix.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_display.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_embed.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_flex.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_float.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_overflow.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_position.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_screenreaders.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_shadows.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_sizing.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_spacing.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_stretched-link.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_text.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\utilities\\_visibility.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss",
+      "PackagePath": "staticwebassets\\scss\\vendors\\bootstrap-4.3.1\\vendor\\_rfs.scss"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\bootstrap\\bootstrap.affix.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.affix.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\bootstrap\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\bootstrap\\bootstrap.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\bootstrap\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\bootstrap\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\vendors\\bootstrap\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\jquery\\jquery-3.4.1.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\jquery\\jquery-3.4.1.min.map",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.min.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.js",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.min.js"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\jquery\\jquery-3.4.1.slim.min.map",
+      "PackagePath": "staticwebassets\\vendors\\jquery\\jquery-3.4.1.slim.min.map"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\themify-icons\\css\\themify-icons.css",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\css\\themify-icons.css"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\themify-icons\\fonts\\themify.eot",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.eot"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\themify-icons\\fonts\\themify.svg",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.svg"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\themify-icons\\fonts\\themify.ttf",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.ttf"
+    },
+    {
+      "Id": "C:\\Users\\erdiu\\OneDrive\\Masaüstü\\Erdi_Proje\\Akademi\\Akademi\\wwwroot\\vendors\\themify-icons\\fonts\\themify.woff",
+      "PackagePath": "staticwebassets\\vendors\\themify-icons\\fonts\\themify.woff"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Akademi.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Akademi.props",
+      "PackagePath": "build\\Akademi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Akademi.props",
+      "PackagePath": "buildMultiTargeting\\Akademi.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Akademi.props",
+      "PackagePath": "buildTransitive\\Akademi.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

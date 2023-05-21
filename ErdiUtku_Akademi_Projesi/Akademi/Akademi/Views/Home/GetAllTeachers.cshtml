@@ -1,0 +1,97 @@
+﻿@model List<TeacherModel>
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Academics &mdash; Website by Colorlib</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
+
+    <link href="https://fonts.googleapis.com/css?family=Muli:300,400,700,900" rel="stylesheet">
+    <link rel="stylesheet" href="fonts/icomoon/style.css">
+
+    <link rel="stylesheet" href="~/ilananla/css/bootstrap.min.css">
+    <link rel="stylesheet" href="~/ilananla/css/jquery-ui.css">
+    <link rel="stylesheet" href="~/ilananla/css/owl.carousel.min.css">
+    <link rel="stylesheet" href="~/ilananla/css/owl.theme.default.min.css">
+    <link rel="stylesheet" href="~/ilananla/css/owl.theme.default.min.css">
+
+    <link rel="stylesheet" href="~/ilananla/css/jquery.fancybox.min.css">
+
+    <link rel="stylesheet" href="~/ilananla/css/bootstrap-datepicker.css">
+
+    <link rel="stylesheet" href="~/ilananla/fonts/flaticon/font/flaticon.css">
+
+    <link rel="stylesheet" href="~/ilananla/css/aos.css">
+    <link href="~/ilananla/css/jquery.mb.YTPlayer.min.css" media="all" rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="~/ilananla/css/style.css">
+
+
+
+</head>
+
+<body>
+
+             
+            <div class="row">
+                @foreach (var item in Model)
+                {
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="course-1-item">
+                            <figure class="thumnail">
+                                <img src="~/images/@item.Image.Url" alt="" class="img-fluid">
+                                <div class="price"><a type="button">Detay</a></div>
+                                <div class="category"><h3>@item.FirstName @item.LastName </h3></div>
+                            </figure>
+                            <div class="course-1-content pb-4">
+                                <h5>@item.Graduation</h5>
+                                 <div class="rating text-center mb-3">
+                                    <span class="icon-star2 text-warning"></span>
+                                    <span class="icon-star2 text-warning"></span>
+                                    <span class="icon-star2 text-warning"></span>
+                                    <span class="icon-star2 text-warning"></span>
+                                    <span class="icon-star2 text-warning"></span>
+                                </div>
+                                
+
+                        <p><a href="course-single.html" class="btn btn-primary rounded-0 px-4">Sepete Ekle</a></p>
+                                
+ 
+                               
+                                
+                            </div>
+                        </div>
+                    </div>
+                    }
+             </div>
+        
+        <!-- .site-wrap -->
+        <!-- loader -->
+        <div id="loader" class="show fullscreen"><svg class="circular" width="48px" height="48px"><circle class="path-bg" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke="#eeeeee" /><circle class="path" cx="24" cy="24" r="22" fill="none" stroke-width="4" stroke-miterlimit="10" stroke="#51be78" /></svg></div>
+
+        <script src="~/ilananla/js/jquery-3.3.1.min.js"></script>
+        <script src="~/ilananla/js/jquery-migrate-3.0.1.min.js"></script>
+        <script src="~/ilananla/js/jquery-ui.js"></script>
+        <script src="~/ilananla/js/popper.min.js"></script>
+        <script src="~/ilananla/js/bootstrap.min.js"></script>
+        <script src="~/ilananla/js/owl.carousel.min.js"></script>
+        <script src="~/ilananla/js/jquery.stellar.min.js"></script>
+        <script src="~/ilananla/js/jquery.countdown.min.js"></script>
+        <script src="~/ilananla/js/bootstrap-datepicker.min.js"></script>
+        <script src="~/ilananla/js/jquery.easing.1.3.js"></script>
+        <script src="~/ilananla/js/aos.js"></script>
+        <script src="~/ilananla/js/jquery.fancybox.min.js"></script>
+        <script src="~/ilananla/js/jquery.sticky.js"></script>
+        <script src="~/ilananla/js/jquery.mb.YTPlayer.min.js"></script>
+
+
+
+
+        <script src="~/ilananla/js/main.js"></script>
+
+</body>
+
+</html>

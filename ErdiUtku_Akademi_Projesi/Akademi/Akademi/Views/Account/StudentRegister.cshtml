@@ -1,0 +1,78 @@
+﻿@model StudentRegisterViewModel
+
+
+<div class="row">
+    <form asp-area="" asp-controller="Account" asp-action="StudentRegister" method="post" enctype="multipart/form-data">
+        <div class="row w-100">
+            <h1 class="display-6 mt-5">Öğrenci Kayıt Ol</h1>
+
+            <div class="col-6 mb-3">
+                <label class="form-label" asp-for="FirstName"></label>
+                <input class="form-control" asp-for="FirstName">
+                <span class="text-danger" asp-validation-for="FirstName"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label class="form-label" asp-for="LastName"></label>
+                <input class="form-control" asp-for="LastName">
+                <span class="text-danger" asp-validation-for="LastName"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label class="form-label" asp-for="Gender"></label>
+                <input class="form-control" asp-for="Gender">
+                <span class="text-danger" asp-validation-for="Gender"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label class="form-label" asp-for="DateOfBirth"></label>
+                <input class="form-control" asp-for="DateOfBirth">
+                <span class="text-danger" asp-validation-for="DateOfBirth"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label class="form-label" asp-for="City"></label>
+                <input class="form-control" asp-for="City">
+                <span class="text-danger" asp-validation-for="City"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label class="form-label" asp-for="Phone"></label>
+                <input class="form-control" asp-for="Phone">
+                <span class="text-danger" asp-validation-for="Phone"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label class="form-label" asp-for="UserName"></label>
+                <input class="form-control" asp-for="UserName">
+                <span class="text-danger" asp-validation-for="UserName"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label class="form-label" asp-for="Email"></label>
+                <input class="form-control" asp-for="Email">
+                <span class="text-danger" asp-validation-for="Email"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label class="form-label" asp-for="Password"></label>
+                <input class="form-control" asp-for="Password">
+                <span class="text-danger" asp-validation-for="Password"></span>
+            </div>
+            <div class="col-6 mb-3">
+                <label class="form-label" asp-for="RePassword"></label>
+                <input class="form-control" asp-for="RePassword">
+                <span class="text-danger" asp-validation-for="RePassword"></span>
+            </div>
+
+            <div class="mb-3">
+                <input type="file" asp-for="Image" class="form-control" accept="images/" multiple />
+                <span class="text-danger" asp-validation-for="Image"></span>
+            </div>
+
+        </div>
+
+
+
+        <button type="submit" class="btn btn-primary">Kaydol</button>
+
+    </form>
+
+</div>
+
+
+@section Scripts{
+    @await Html.PartialAsync("_ValidationScriptsPartial");
+}

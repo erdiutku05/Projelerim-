@@ -1,0 +1,26 @@
+﻿@model BranchAddViewModel
+<h1 class="display-6 mt-2">Yeni Branş</h1>
+<hr />
+
+<form asp-area="Admin"
+      asp-controller="Branches"
+      asp-action="Create"
+      method="post">
+    <div asp-validation-summary="All" class="text-danger"></div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="BranchName"></label>
+        <input type="text" class="form-control" asp-for="BranchName">
+        <span class="text-danger" asp-validation-for="BranchName"></span>
+    </div>
+    <div class="mb-3">
+        <label class="form-label" asp-for="Description"></label>
+        <input type="text" class="form-control" asp-for="Description">
+        <span class="text-danger" asp-validation-for="Description"></span>
+    </div>
+    <div class="mb-3 form-check">
+        <input type="checkbox" class="form-check-input" asp-for="IsApproved">
+        <label class="form-check-label" asp-for="IsApproved"></label>
+    </div>
+
+    <button type="submit" class="btn btn-primary">Kaydet</button>
+</form>
