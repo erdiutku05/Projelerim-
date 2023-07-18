@@ -1,0 +1,166 @@
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\OnlineTicariOtomaston.dll.config
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\OnlineTicariOtomaston.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\OnlineTicariOtomaston.pdb
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csc.exe
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csc.exe.config
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csc.rsp
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csi.exe
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csi.exe.config
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csi.rsp
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.AppContext.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Collections.Immutable.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Console.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Globalization.Calendars.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.IO.Compression.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.IO.FileSystem.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Net.Http.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Net.Sockets.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Reflection.Metadata.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.ValueTuple.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Xml.XPath.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\vbc.exe
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\vbc.exe.config
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\vbc.rsp
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\VBCSCompiler.exe
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\VBCSCompiler.exe.config
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Antlr3.Runtime.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\EntityFramework.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\EntityFramework.SqlServer.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Microsoft.Web.Infrastructure.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Newtonsoft.Json.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Helpers.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Mvc.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Optimization.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Razor.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.Deployment.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.Razor.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\WebGrease.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\EntityFramework.xml
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\EntityFramework.SqlServer.xml
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Helpers.xml
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Mvc.xml
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Optimization.xml
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Razor.xml
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.xml
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.Deployment.xml
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.Razor.xml
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Newtonsoft.Json.xml
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Antlr3.Runtime.pdb
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\obj\Debug\OnlineTicariOtomaston.csproj.AssemblyReference.cache
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\obj\Debug\OnlineTicariOtomaston.csproj.CoreCompileInputs.cache
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\obj\Debug\OnlineTicariOtomaston.csproj.CopyComplete
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\obj\Debug\OnlineTicariOtomaston.dll
+C:\Udemy\Online Ticari Otomasyon\OnlineTicariOtomaston\OnlineTicariOtomaston\obj\Debug\OnlineTicariOtomaston.pdb
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\OnlineTicariOtomaston.dll.config
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\OnlineTicariOtomaston.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\OnlineTicariOtomaston.pdb
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csc.exe
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csc.exe.config
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csc.rsp
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csi.exe
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csi.exe.config
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\csi.rsp
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.AppContext.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Console.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.IO.Compression.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Net.Http.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Net.Sockets.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.ValueTuple.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Xml.XPath.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\vbc.exe
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\vbc.exe.config
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\vbc.rsp
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\VBCSCompiler.exe
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Antlr3.Runtime.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\EntityFramework.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\EntityFramework.SqlServer.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Newtonsoft.Json.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Helpers.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Mvc.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Optimization.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Razor.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.Deployment.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.Razor.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\WebGrease.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\EntityFramework.xml
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\EntityFramework.SqlServer.xml
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Helpers.xml
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Mvc.xml
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Optimization.xml
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.Razor.xml
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.xml
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.Deployment.xml
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\System.Web.WebPages.Razor.xml
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Newtonsoft.Json.xml
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Antlr3.Runtime.pdb
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\obj\Debug\OnlineTicariOtomaston.csproj.AssemblyReference.cache
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\obj\Debug\OnlineTicariOtomaston.csproj.CoreCompileInputs.cache
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\obj\Debug\OnlineTicariOtomaston.csproj.CopyComplete
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\obj\Debug\OnlineTicariOtomaston.dll
+C:\Users\erdiu\OneDrive\Masaüstü\OnlineTicariOtomaston\OnlineTicariOtomaston\obj\Debug\OnlineTicariOtomaston.pdb

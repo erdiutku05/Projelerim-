@@ -1,0 +1,63 @@
+﻿@using OnlineTicariOtomaston.Models.Siniflar
+@model List<Personel>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_AdminLayout.cshtml";
+}
+
+<br />
+<h2>Personel Listesi</h2>
+<br />
+
+<table class="table table-bordered" style="margin-top:20px">
+    <tr>
+        <th>ID</th>
+        <th>Personel Adı</th>
+        <th>Personel Soyadı</th>
+        <th>Personel Görsel</th>
+        <th>Personel Departman ID</th>
+        <th>Güncelle</th>
+        <th>Satışlar</th>
+
+    </tr>
+
+
+    @foreach (var k in Model)
+    {
+
+        <tr>
+            <td>
+                @k.PersonelId
+            </td>
+
+            <td>
+                @k.PersonelAd
+            </td>
+
+            <td>
+                @k.PersonelSoyad
+            </td>
+
+            <td>
+                @k.PersonelGorsel
+            </td>
+
+            <td>
+                @k.Departman.DepartmanAd
+            </td>
+
+            
+
+            <td><a href="/Personel/PersonelGetir/@k.PersonelId" class="btn btn-success">Güncelle</a></td>
+
+            <td><a href="/Departman/DepartmanPersonelSatis/@k.PersonelId" class="btn btn-group" style="background-color:goldenrod">Detay</a></td>
+
+
+        </tr>
+    }
+
+
+</table>
+<a href="/Personel/PersonelEkle" class="btn btn-primary">Personel Ekle</a>
+
